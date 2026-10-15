@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="modbus_interface" name="modbus_node" type="modbus_interface_node" />
+</launch>
